@@ -1,0 +1,174 @@
+﻿body {
+    background-color: #cbd5e4;
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+    color: #282727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+div.container
+{
+    background-color: white;
+    padding: 2rem;
+    width:65%;
+    border-radius: 0.5rem;
+    min-height: 300px;
+    
+}
+
+div.shadow
+{
+    box-shadow: 0px 0px 9px rgba(104, 109, 118, 0.38);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.j-content-center {
+    justify-content: center;
+}
+
+.j-content-start {
+    justify-content: start;
+}
+
+.j-content-end {
+    justify-content: end;
+}
+
+.j-content-space-around {
+    justify-content: space-around;
+}
+
+.j-content-space-evenly {
+    justify-content: space-evenly;
+}
+.j-content-stretch {
+    align-content: stretch;
+}
+.j-content-space-between {
+    justify-content: space-between;
+}
+
+.a-content-center {
+    align-content: center;
+}
+
+.a-content-start {
+    align-content: start;
+}
+
+.a-content-end {
+    align-content: end;
+}
+
+.a-content-baseline {
+    align-content: baseline;
+}
+
+.a-item-center {
+    align-items: center;
+}
+
+.h-200-px
+{
+    height: 200px;
+}
+a.red-link{
+    color : red;
+    font-size : 0.8rem;
+}
+a.blue-link{
+    color : blue;
+}
+.shopping-cart-label{
+    color: rgb(135, 130, 135);
+    font-size:1.1rem ;
+    font-weight: bold;
+}
+.pad-sm
+{
+    padding: 0.8rem;
+}
+.pad-top-sm
+{
+    padding-top: 0.8rem;
+}
+.pad-left-sm
+{
+    padding-left: 0.8rem;
+}
+.pad-right-sm
+{
+    padding-right: 0.8rem;
+}
+.pad-bottom-sm
+ {
+     padding-bottom: 0.8rem;
+ }
+
+.pad-md
+  {
+      padding: 1.2rem;
+  }
+.pad-top-md
+{
+    padding-top: 1.2rem;
+}
+.pad-left-md
+{
+    padding-left: 1.2rem;
+}
+.pad-right-md
+{
+    padding-right: 1.2rem;
+}
+.pad-bottom-md
+{
+    padding-bottom: 1.2rem;
+}
+.pad-lg
+ {
+     padding: 2.2rem;
+ }
+.pad-top-lg
+{
+    padding-top: 2.2rem;
+}
+.pad-left-lg
+{
+    padding-left: 2.2rem;
+}
+.pad-right-lg
+{
+    padding-right: 2.2rem;
+}
+.pad-bottom-lg
+{
+    padding-bottom: 2.2rem;
+}
+div.cart-item
+{
+    background-color: rgba(146, 143, 143, 0.13);
+    
+}
+div.cart-img
+{
+    width: 150px;
+
+}
+div.cart-details {
+     width: 85%;
+ }
+
+div.cart-details div{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
